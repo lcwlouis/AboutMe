@@ -23,6 +23,7 @@
 [![ENV][ENV]][ENV-url]
 [![Figma][Figma]][Figma-url]
 [![GoogleChrome][GoogleChrome]][GoogleChrome-url]
+[![Docker][Docker]][Docker-url]
 [![draw.io][draw.io]][draw.io-url]
 [![CloudflarePages][CloudflarePages]][Cloudflare-url]
 [![Portainer][Portainer]][Portainer-url]
@@ -111,6 +112,8 @@
 [Figma-url]: https://www.figma.com/
 [GoogleChrome]: https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
 [GoogleChrome-url]: https://www.google.com/chrome/
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
 [draw.io]: https://img.shields.io/badge/draw.io-F80000?style=for-the-badge&logo=draw.io&logoColor=white
 [draw.io-url]: https://www.draw.io/
 [Portainer]: https://img.shields.io/badge/Portainer-13CA91?style=for-the-badge&logo=portainer&logoColor=white
