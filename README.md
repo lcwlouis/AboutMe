@@ -1,12 +1,14 @@
 # Hello World, I am Louis
-> A computing student looking forward to the world of AI. But seeing ChatGPT exists maybe I need to rethink what I would like to pursue 
-- 🇸🇬 Proudly Singaporean 
-- 📚 Pursuing a degree in Computer Science
-- 🎓 Graduating in 2026
+> An AI Engineer looking forward to making the world a better place with AI. There's so much good to be had, and I want to be contributing positively to the world. Stay curious. 
+- 🇸🇬 Proudly Singaporean
+- 💻 Full Stack AI Engineer @ Synapxe
+- 📚 Pursued a degree in Computer Science
+- 🎓 Graduated in 2026
 - 🏫 Nanyang Technological University, Singapore
   College of Computing and Data Science
 - 🎒 Exchange Program at The Chinese University of Hong Kong, Hong Kong (AY 23/24 Sem 2)
-- 📪 Contact me at **liu.louis.324@gmail.com** or **li0002is@e.ntu.edu.sg** 
+- 📪 Contact me at [liu.louis.324@gmail.com](mailto:liu.louis.324@gmail.com)
+- 🌐 Website [www.lcwlouis.com](https://www.lcwlouis.com)
 
 ## Tools I have worked with:
 [![Mongo][Mongo]][Mongo-url]
@@ -72,10 +74,14 @@ CSCI, IERG courses are from CUHK
 - SC5008 (Decode The Industry)
 
 ## Currently doing:
-- Final Year Project
-- Job Searching
-- Finding my way to Silicon Valley
+- Creating AI Agents for Healthcare and Education
+- Finding my way to contribute even more
 - Probably some GenAI related project
+
+## Work Experience:
+- **Path Infotech deployed at Synapxe** (2026)
+  - Developing, deploying custom Full Stack Generative AI applications.
+  - Tech: AWS Bedrock AgentCore, AWS Bedrock, AWS CloudFormation, AWS, Azure DevOps, Azure CosmosDB, PostgreSQL, LangChain, LangGraph, Pydantic, Azure AI Services, Azure AI Document Intelligence
 
 ## Internship Experience:
 - **Synapxe** (Semester 2 AY24/25)
@@ -89,8 +95,10 @@ CSCI, IERG courses are from CUHK
 
 ## Languages:
 ### Coding
-[![C][C]][C-url]
 [![Python][Python]][Python-url]
+[![TypeScript][TypeScript]][TypeScript-url]
+[![React][React.js]][React-url]
+[![C][C]][C-url]
 [![Java][Java]][Java-url]
 [![Go][Go]][Go-url]
 [![C++][C++]][C++-url]
